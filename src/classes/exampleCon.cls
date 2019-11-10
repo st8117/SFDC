@@ -1,6 +1,18 @@
+/**
+ * @File Name          : exampleCon.cls
+ * @Description        : 
+ * @Author             : ChangeMeIn@UserSettingsUnder.SFDoc
+ * @Group              : 
+ * @Last Modified By   : ChangeMeIn@UserSettingsUnder.SFDoc
+ * @Last Modified On   : 11/10/2019, 11:05:58 PM
+ * @Modification Log   : 
+ * Ver       Date            Author      		    Modification
+ * 1.0    11/10/2019   ChangeMeIn@UserSettingsUnder.SFDoc     Initial Version
+**/
 public class exampleCon {
     String uname;
 
+//test git
     public String getUsername() {
         return uname;
     }
