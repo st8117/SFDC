@@ -4,7 +4,7 @@
  * @Author             : ChangeMeIn@UserSettingsUnder.SFDoc
  * @Group              : 
  * @Last Modified By   : ChangeMeIn@UserSettingsUnder.SFDoc
- * @Last Modified On   : 11/10/2019, 11:25:15 PM
+ * @Last Modified On   : 11/10/2019, 11:40:53 PM
  * @Modification Log   : 
  * Ver       Date            Author      		    Modification
  * 1.0    11/10/2019   ChangeMeIn@UserSettingsUnder.SFDoc     Initial Version
@@ -15,6 +15,7 @@ public class exampleCon {
 //test git
 //git 
     //server change
+    //vs change
     public String getUsername() {
         return uname;
     }
